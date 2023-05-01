@@ -1,2 +1,2 @@
-# physiotimer
+# physiotimer⏱
 Timer for physiotherapy exercises
