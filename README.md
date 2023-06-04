@@ -1,2 +1,2 @@
 # Physiotimer⏱
-Timer for physiotherapy exercises
+timer for physiotherapy exercises, written using javathreads
